@@ -1132,6 +1132,11 @@ hr {
     background-image: url(../img/hero/h2_hero2.jpg)
 }
 
+
+.slider-bg6 {
+    background-image: url(../img/musica.jpg)
+}
+
 .slider-area .hero-caption h1 {
     font-size: 70px;
     font-weight: 500;
