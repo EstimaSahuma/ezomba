@@ -1132,6 +1132,54 @@ hr {
     background-image: url(../img/hero/h2_hero2.jpg)
 }
 
+.search-results {
+	position: relative;
+	display: block;
+	height: 70px;
+	width: 600px;
+	left: 120px;
+	top: 135px;
+	padding: 15px 0 15px 0;
+}
+
+
+#page-selector {
+	height: 100px;
+	width: 600px;
+	position: relative;
+	bottom: -80px;
+	left: 120px;
+	padding-top: 20px; 
+	margin-top: 50px;
+	border-top: solid 1px #E5E5E5;
+}
+
+#page-selector p {
+	text-align: center;
+	position: relative;
+	bottom: 10px;
+}
+
+.description {
+	color: #545454;
+	font-family: Arial;
+	font-size: 13px;
+}
+
+.URL {
+	color: #476621;
+	font-family: Arial;
+	font-size: 13px;
+	margin-top: 0;
+	font-weight: bold;
+}
+
+.title {
+	color: #1A51BD;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+}
 
 .slider-bg6 {
     background-image: url(../img/musica.jpg)
